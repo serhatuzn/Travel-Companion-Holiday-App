@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Travel companion -  holiday app\bin\Debug\net8.0\Travel companion -  holiday app.exe
+C:\Users\User\Desktop\Travel companion -  holiday app\bin\Debug\net8.0\Travel companion -  holiday app.deps.json
+C:\Users\User\Desktop\Travel companion -  holiday app\bin\Debug\net8.0\Travel companion -  holiday app.runtimeconfig.json
+C:\Users\User\Desktop\Travel companion -  holiday app\bin\Debug\net8.0\Travel companion -  holiday app.dll
+C:\Users\User\Desktop\Travel companion -  holiday app\bin\Debug\net8.0\Travel companion -  holiday app.pdb
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.AssemblyInfo.cs
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.sourcelink.json
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.dll
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\refint\Travel companion -  holiday app.dll
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.pdb
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\Travel companion -  holiday app.genruntimeconfig.cache
+C:\Users\User\Desktop\Travel companion -  holiday app\obj\Debug\net8.0\ref\Travel companion -  holiday app.dll
